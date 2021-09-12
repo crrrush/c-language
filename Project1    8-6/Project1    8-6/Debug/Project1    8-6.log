@@ -1,0 +1,8 @@
+﻿  000.c
+  test.c
+d:\学习代码\project1    8-6\project1    8-6\test.c(25): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  d:\学习代码\project1    8-6\project1    8-6\test.c(25): note: 请考虑在格式字符串中使用“%lld”
+  d:\学习代码\project1    8-6\project1    8-6\test.c(25): note: 请考虑在格式字符串中使用“%I64d”
+d:\学习代码\project1    8-6\project1    8-6\test.c(16): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  Project1    8-6.vcxproj -> D:\学习代码\Project1    8-6\Debug\Project1    8-6.exe
