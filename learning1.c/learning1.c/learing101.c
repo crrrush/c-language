@@ -16,13 +16,13 @@
 
 
 
-int Add(int x, int y)
-{
-	int z = x + y;
-	return z;
-
-}
-
+//int Add(int x, int y)
+//{
+//	int z = x + y;
+//	return z;
+//
+//}
+//
 
 
 //int main()
@@ -38,22 +38,22 @@ int Add(int x, int y)
 //}
 
 
-int main()
-{
-	int a = 0;
-	int b = 0;
-	int sum = 0;
-	scanf("%d%d", &b, &a);
-	sum = Add(a,b);
-	printf("sum=%d", sum);
-
-
-
-
-
-	return 0;
-}
-
+//int main()
+//{
+//	int a = 0;
+//	int b = 0;
+//	int sum = 0;
+//	scanf("%d%d", &b, &a);
+//	sum = Add(a,b);
+//	printf("sum=%d", sum);
+//
+//
+//
+//
+//
+//	return 0;
+//}
+//
 
 
 
