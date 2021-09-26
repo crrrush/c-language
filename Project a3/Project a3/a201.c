@@ -2,16 +2,24 @@
 
 #include<stdio.h>
 
-int Max(int x, int y)
+int Max(int x, int y,int n)
 {
 	int z = 0;
 	if (x>y)
 	{
-		z = x;
+		if (x>n)
+		{
+			z = x;
+		}
+		else z = n;
 	}
 	else
 	{
-		z = y;
+		if (y>n)
+		{
+			z = y;
+		}
+		else z = n;
 	}
 	return z;
 }
@@ -20,9 +28,10 @@ int main()
 {
 	int a = 0;
 	int b = 0;
+	int e = 0;
 	int c = 0;
-	scanf("%d%d", &a, &b);
-	c = Max(a, b);
+	scanf("%d%d%d", &a, &b,&e);
+	c = Max(a, b,e);
 	printf("c=%d", c);
 
 	return 0;
