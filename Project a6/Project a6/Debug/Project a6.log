@@ -1,8 +1,0 @@
-﻿  a602.c
-c:\users\22936\source\repos\project a6\project a6\a602.c(13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\22936\source\repos\project a6\project a6\a602.c(17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\22936\source\repos\project a6\project a6\a602.c(21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\22936\source\repos\project a6\project a6\a602.c(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\22936\source\repos\project a6\project a6\a602.c(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\22936\source\repos\project a6\project a6\a602.c(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  Project a6.vcxproj -> C:\Users\22936\source\repos\Project a6\Debug\Project a6.exe
